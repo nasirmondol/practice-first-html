@@ -1,0 +1,23 @@
+        .blog{
+            margin: 10px;
+            background-color: violet;
+            /* border-color: blue; */
+            /* border: 10px solid gold; */
+            border: 20px solid tomato;
+            /* border-right: 20px solid tomato; */
+            border-radius: 8px;
+            text-align: justify;
+            padding: 5px 30px 80px 30px;
+            /* first top, second-rihgt, third-down, fourth-left. */
+            text-decoration: underline;
+        }
+        /* css box model depends on four thisgs. they are------
+            1. content
+            2. border
+            3. margin
+            4. padding
+            5. width and height.
+        */
+        h3{
+            
+        }

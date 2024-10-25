@@ -1,0 +1,15 @@
+.header{
+    background-color: orange;
+   color: red; 
+   font: 900;
+}
+
+.parant{
+    border-style: solid;
+    margin: 4px;
+}
+
+.child{
+    margin: 10px;
+    padding: 8px;
+}
