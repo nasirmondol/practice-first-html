@@ -1,0 +1,53 @@
+.welcome {
+    background-image: url("/banner.png");
+    background-repeat: repeat-y;
+    text-align: center;
+    height: 300px;
+    width: 90%;
+    /* align-items: center; */
+    /* width: 100%; */
+    /* height: max-content; */
+}
+
+.paragraph {
+    color: burlywood;
+    font-weight: 700;
+    font-style: oblique;
+    width: 90%;
+}
+
+.heading {
+    font-weight: 800;
+    color: aquamarine;
+}
+
+.parent {
+    /* position: absolute;
+    justify-content: center;
+    /* align-items: center; */
+    /* left: 100%; */
+    display: flex;
+    justify-content: center;
+    /* Horizontally center */
+    align-items: center;
+    /* Vertically center */
+    height: 100vh;
+    /* Full viewport height for vertical centering */
+    text-align: center;
+    /* Optional: center text inside child */
+    box-shadow: cornsilk;
+}
+.btn{
+    display: flex;
+    justify-content: end;
+    width: 90%;
+}
+.button{
+    height: 30px;
+    color: blue;
+    padding: 2px;
+    width: 80px;
+    border-radius: 8px;
+    background-color: cadetblue;
+    border: none;
+}

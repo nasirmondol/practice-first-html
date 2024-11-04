@@ -1,0 +1,16 @@
+.second{
+    color: red;
+    font-weight: bold;
+}
+
+.header{
+    color: green;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
